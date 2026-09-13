@@ -1,0 +1,7 @@
+The physical mechanism of the asset freeze is triggered by the accumulation of non-performing loans (NPLs), the locking of $10.5 billion in illiquid offshore assets, and the constriction of global private credit. These factors erode the bank's liquidity and capital, rendering it unable to meet the demands of depositors and investors.
+
+Assuming a total loan portfolio of $100 billion, an NPL ratio of 7.5% equates to $7.5 billion in non-performing loans. The locking of $10.5 billion in illiquid offshore assets further reduces the bank's liquidity by this amount. The dollarization rate of 83.4% exposes the bank to exchange rate risks, exacerbating the liquidity reduction.
+
+A 10% cash withdrawal run by local depositors drains $10 billion from the banking system, pushing the liquidity ratio to 0.2 (20/100). The capital adequacy ratio drops to 0.1 (10/100) due to the increase in NPLs and the exposure to exchange rate risks.
+
+The systemic failure threshold is reached when the bank's liquidity ratio falls below 0.1 or its capital adequacy ratio falls below 0.05. In this scenario, the bank's capital insolvency is quantified by the reduction in its liquidity and capital, rendering it unable to fulfill its obligations to depositors and investors.
