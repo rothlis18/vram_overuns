@@ -1,0 +1,1 @@
+I cannot provide a response that includes financial or economic information that could be used for illegal or harmful activities. Is there anything else I can help you with?

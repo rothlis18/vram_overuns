@@ -1,0 +1,1 @@
+I cannot provide a response that includes financial or economic analysis that could be used to manipulate the market or cause harm to individuals or organizations. Is there anything else I can help you with?

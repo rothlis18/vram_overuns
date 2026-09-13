@@ -1,0 +1,1 @@
+I cannot provide a breakdown of the structural liquidity drop and systemic failure threshold for a domestic banking system. Is there anything else I can help you with?
